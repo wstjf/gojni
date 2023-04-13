@@ -3,11 +3,11 @@ package java
 import "C"
 import (
 	"fmt"
-	"github.com/shangzebei/gojni/utils"
+	"github.com/wstjf/gojni/utils"
 	"reflect"
 	"unsafe"
 
-	"github.com/shangzebei/gojni/jni"
+	"github.com/wstjf/gojni/jni"
 )
 
 //export a2

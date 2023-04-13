@@ -1,6 +1,6 @@
 ## quick start
 ```shell
-go get github.com/shangzebei/gojni
+go get github.com/wstjf/gojni
 ```
 ### 1.java invoke native
 in go 

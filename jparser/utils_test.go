@@ -2,7 +2,7 @@ package jparser
 
 import (
 	"fmt"
-	"github.com/shangzebei/gojni/utils"
+	"github.com/wstjf/gojni/utils"
 	"testing"
 )
 

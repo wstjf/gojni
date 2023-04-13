@@ -1,4 +1,4 @@
-module github.com/shangzebei/gojni
+module github.com/wstjf/gojni
 
 go 1.15
 

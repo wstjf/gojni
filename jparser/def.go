@@ -3,7 +3,7 @@ package jparser
 import (
 	"fmt"
 
-	"github.com/shangzebei/gojni/jni"
+	"github.com/wstjf/gojni/jni"
 )
 
 type Compiler struct {
